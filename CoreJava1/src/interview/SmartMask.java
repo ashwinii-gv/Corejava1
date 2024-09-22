@@ -1,5 +1,7 @@
-package com.tns.interview;
+package interview;
+
 import java.util.Scanner;
+
 public class SmartMask {
 
 	public static void main(String[] args) {
@@ -18,4 +20,6 @@ public class SmartMask {
 		System.out.println("total order placed for mask:"+totalorder);
 			}
 	
-}
+	}
+
+
