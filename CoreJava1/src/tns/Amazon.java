@@ -1,7 +1,6 @@
-package com.tns.main;
+package tns;
 
-public class Amazon implements Product {
-
+public class Amazon implements Product{
 
 private String name;
 private double price ;

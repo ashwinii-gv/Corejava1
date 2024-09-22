@@ -1,9 +1,9 @@
-package com.tns.main;
+package tns;
 interface Product {
 	 String getName();
 	 double getPrice();
 }
-public class Flipkart implements Product{
+public class Flipkart  implements Product{
 	private String name;
 	private double price ;
 	public Flipkart(String name,double price)
